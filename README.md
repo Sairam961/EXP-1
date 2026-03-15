@@ -62,6 +62,4 @@ KVL AND KCL
 <img src="3.jpeg">
 
 RESULT:
-Thus the Kirchoff's voltage law and Kirchoff's current law have been verified successfully.
-
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
