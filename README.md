@@ -48,7 +48,8 @@ a.   KVL:
 
 
 b.  KCL:
- 
+
+<img src="Screenshot 2026-03-15 153846.png">
 
 Calculation:
 
